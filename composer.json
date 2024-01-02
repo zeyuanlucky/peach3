@@ -1,0 +1,19 @@
+{
+    "name": "zeyuan/peach3",
+    "description": "this is a peach mvc framework",
+    "type": "l",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zeyuan\\Peach3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zeyuanlucky",
+            "email": "127177116+zeyuanlucky@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

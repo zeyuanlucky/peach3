@@ -1,0 +1,19 @@
+{
+    "name": "peach2/framework",
+    "description": "this is a modern mvc framework",
+    "type": "l",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Peach2\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zeyuan",
+            "email": "zeyuanlucky@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
